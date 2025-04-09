@@ -36,9 +36,3 @@ Park-Ezee is a smart, RFID-based autonomous parking solution developed to stream
 2. RFID data sent to microcontroller via I2C.
 3. Access is granted if ID matches database → barrier opens.
 4. Power-managed system ensures minimal energy usage during idle states.
-
-## 👤 Author
-
-**Chinmay Ranade**  
-📧 cranade7@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/chinmay-ranade)
